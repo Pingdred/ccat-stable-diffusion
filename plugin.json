@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Diffusion Cat",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
+    "description": "Generate image using stable diffusion",
+    "author_name": "Emanuele Morrone",
+    "author_url": "https://github.com/pingdred/",
+    "plugin_url": "https://github.com/pingdred/my_plugin",
+    "tags": "image-generation, stable-diffusion",
     "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
 }
